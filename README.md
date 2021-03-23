@@ -1,7 +1,8 @@
 # DCBS_Maximum_UI_demo
 The UI demo of the product DCBS_Maximum based on Python 3.
 
-Hello, I am Stone, the programmer of this Demo Interface, it is a Python 3 project in the evironement as follow:
+Hello, I am Stone, the programmer of this Demo Interface, 
+it is a Python 3 project in the evironement as follow:
 Python 3.5.2 or higher
 
 with modules:
